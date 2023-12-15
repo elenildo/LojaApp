@@ -32,8 +32,8 @@ export default {
     data(){
         return{
             user: {
-                login: "elenildoms@gmail.com",
-                password: "123123"
+                login: "",
+                password: ""
             },
         }
     },

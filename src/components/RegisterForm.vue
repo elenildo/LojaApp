@@ -33,10 +33,10 @@ export default {
     data(){
         return{
             user: {
-                nome: "Elenildo",
-                sobrenome: "Santos",
+                nome: "Paulo",
+                sobrenome: "Souza",
                 login: "admin@teste.com",
-                password: "123"
+                password: "123123"
             }
         }
     },
